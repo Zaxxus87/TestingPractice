@@ -1,0 +1,15 @@
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\bin\Debug\net5.0\Testing_Practice.exe
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\bin\Debug\net5.0\Testing_Practice.deps.json
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\bin\Debug\net5.0\Testing_Practice.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\bin\Debug\net5.0\Testing_Practice.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\bin\Debug\net5.0\Testing_Practice.dll
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\bin\Debug\net5.0\ref\Testing_Practice.dll
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\bin\Debug\net5.0\Testing_Practice.pdb
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\Testing_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\Testing_Practice.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\Testing_Practice.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\Testing_Practice.csproj.CoreCompileInputs.cache
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\Testing_Practice.dll
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\ref\Testing_Practice.dll
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\Testing_Practice.pdb
+C:\Users\jeffr\Desktop\repos\Testing Practice\Testing Practice\obj\Debug\net5.0\Testing_Practice.genruntimeconfig.cache
